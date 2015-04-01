@@ -18,5 +18,11 @@
     <ClCompile Include="isUniqueChars.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="isUniqueChars1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="isUniqueChars2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
